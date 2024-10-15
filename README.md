@@ -6,4 +6,4 @@ A directory for all final year project work
 
 Lyndon Fernandes
 
-Developed by Lyndon Fernandes inspiration from CAT-SCI EDA template
+Developed by Lyndon Fernandes for EDA
